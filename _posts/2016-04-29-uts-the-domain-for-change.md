@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-29T14:57:29.764Z'
-dateModified: '2016-04-29T14:57:24.813Z'
-title: 'UTS: The Domain for Change'
+datePublished: '2016-04-29T15:52:08.774Z'
+dateModified: '2016-04-29T15:51:58.082Z'
+title: ''
 author: []
 authors: []
 publisher:
@@ -22,7 +22,11 @@ url: uts-the-domain-for-change/index.html
 _type: Article
 
 ---
-# UTS: The Domain for Change
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/583c6778-72f8-498d-9326-945152f46488.jpg)
 
-* - By Alexander Murphy
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/106dc00e-e121-4557-8799-40a4247c5fe1.jpg)
+## 
+
+# UTS by all means is the epicentre for change. It is written in its DNA: Think, Change, Do.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/07f14cf2-e9ee-4e0f-8112-2b5cba1289de.jpg)
+
+Entrepreneurship and the ever growing lust for startups continue to ravage through the minds of us students in the tertiary sphere. We are challenged in our degrees to expand our scope and interests far beyond the bounds of repetitive calculus theory and tedious managerial dialogue.
