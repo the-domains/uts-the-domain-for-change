@@ -4,10 +4,10 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Entrepreneurship and the ever growing lust for startups continue to ravage through the minds of us students in the tertiary sphere. We are challenged in our degrees to expand our scope and interests far beyond the bounds of repetitive calculus theory and tedious managerial dialogue.
-datePublished: '2016-04-29T16:03:36.884Z'
-dateModified: '2016-04-29T16:02:03.673Z'
-title: 'UTS by all means is the epicentre for change. It is written in its DNA: Think, Change, Do.'
+description: ''
+datePublished: '2016-04-29T16:06:34.816Z'
+dateModified: '2016-04-29T16:03:39.754Z'
+title: ''
 author: []
 sourcePath: _posts/2016-04-29-uts-the-domain-for-change.md
 published: true
@@ -29,3 +29,5 @@ _type: Article
 
 Entrepreneurship and the ever growing lust for startups continue to ravage through the minds of us students in the tertiary sphere. We are challenged in our degrees to expand our scope and interests far beyond the bounds of repetitive calculus theory and tedious managerial dialogue.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9df818ab-b0f1-479e-9b35-9401933de15c.jpg)
+
+With the ever growing number of communities internationally living below the line - it is increasingly becoming apparent how simple forms of innovation can be the catalyst for genuine, reputable change.
