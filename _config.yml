@@ -1,0 +1,28 @@
+name: 'UTS: The Domain for Change'
+favicon: null
+layout_spectrum: 0.7119864551350474
+typography_spectrum: 0.07637428632006049
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.15130071784369648
+  lightness: 0.7958288695663214
+  saturation: 0.7148612481541932
+  rhythmicContrast: 0.1268735253252089
+purpose: []
